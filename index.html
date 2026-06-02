@@ -313,11 +313,11 @@
   // Single source of truth. Adding/renaming an artifact = edit one row here.
   var VIEWS = [
     {id:'overview',  num:'00', label:'Overview',                       file:null,                            color:'var(--accent)'},
-    {id:'risk',      num:'01', label:'E&L Risk Register',              file:'artifact1_risk_register.html',  color:'#ef4444'},
-    {id:'gap',       num:'02', label:'Regulatory Gap Assessment',      file:'artifact2_gap_assessment.html', color:'#f97316'},
-    {id:'brief',     num:'03', label:'Risk Summary + Decision Brief',  file:'artifact3_decision_brief.html', color:'#eab308'},
-    {id:'supplier',  num:'04', label:'Supplier Change Impact',         file:'artifact4_supplier_change.html',color:'#06b6d4'},
-    {id:'readiness', num:'05', label:'Regulatory Readiness',           file:'artifact5_readiness.html',      color:'#10b981'}
+    {id:'risk',      num:'01', label:'E&L Risk Register',              file:'artifacts/artifact1_risk_register.html',  color:'#ef4444'},
+    {id:'gap',       num:'02', label:'Regulatory Gap Assessment',      file:'artifacts/artifact2_gap_assessment.html', color:'#f97316'},
+    {id:'brief',     num:'03', label:'Risk Summary + Decision Brief',  file:'artifacts/artifact3_decision_brief.html', color:'#eab308'},
+    {id:'supplier',  num:'04', label:'Supplier Change Impact',         file:'artifacts/artifact4_supplier_change.html',color:'#06b6d4'},
+    {id:'readiness', num:'05', label:'Regulatory Readiness',           file:'artifacts/artifact5_readiness.html',      color:'#10b981'}
   ];
   var byId = {};
   VIEWS.forEach(function(v){ byId[v.id] = v; });
