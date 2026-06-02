@@ -1,4 +1,5 @@
 # E&L Scientific Copilot - A Regulatory Workflow Cockpit
+<img width="1536" height="1024" alt="E L social preview" src="https://github.com/user-attachments/assets/3ffbb6c7-979a-47c5-9a77-263aa7051ea3" />
 
 An interactive cockpit for an **Extractables & Leachables (E&L)** scientific and
 regulatory review workflow, built around a fictional case study
