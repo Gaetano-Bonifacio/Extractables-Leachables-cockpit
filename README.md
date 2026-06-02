@@ -1,4 +1,4 @@
-# E&L Scientific Copilot - Regulatory Workflow Cockpit
+# E&L Scientific Copilot - A Regulatory Workflow Cockpit
 
 An interactive cockpit for an **Extractables & Leachables (E&L)** scientific and
 regulatory review workflow, built around a fictional case study
@@ -9,8 +9,7 @@ from risk register to regulatory readiness.
 Repository: https://github.com/gaetanobonifacio-ux/Extractables-Leachables-cockpit
 
 > **AI output requires QA / Toxicology review.** The case is fictional and for
-> demonstration and educational purposes only. Nothing here is regulatory,
-> toxicological, or legal advice.
+> demonstration purposes only. You can r-use this tool with your drug-related documentation. Nothing here is regulatory, toxicological, or legal advice.
 
 ---
 
